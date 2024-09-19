@@ -63,6 +63,6 @@ a:active {
     height: 36px;
     min-width: 54px;
     text-align: center;
-    cursor; pointer;
+    cursor: pointer;
     user-select: none;
 }
