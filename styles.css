@@ -85,3 +85,17 @@ a:active{
 .div-advanced{
     margin: 50px;
 }
+
+.row-input{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.left{
+    width: 200px;
+}
+
+.right{
+    width: 385px;
+}
