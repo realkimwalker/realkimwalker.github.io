@@ -76,3 +76,8 @@ a:active{
 .line{
     border-bottom: 1px solid #ebebeb;
 }
+
+.h2-advanced{
+    font-size: 16px;
+    color: #333333;
+}
