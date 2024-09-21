@@ -112,3 +112,8 @@ a:active{
     border: 1px solid #3079ed;
     color: #fff;
 }
+
+.btn-div{
+    display: flex;
+    justify-content: flex-end;
+}
