@@ -105,3 +105,10 @@ a:active{
     font-size: 13px;
     vertical-align: middle;
 }
+
+.btn-advanced{
+    box-shadow: none;
+    background-color: #4d90fe;
+    border: 1px solid #3079ed;
+    color: #fff;
+}
