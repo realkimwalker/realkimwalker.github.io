@@ -116,4 +116,6 @@ a:active{
 .btn-div{
     display: flex;
     justify-content: flex-end;
+    width: 585px;
+    margin-top: 30px;
 }
