@@ -100,3 +100,8 @@ a:active{
 .right{
     width: 385px;
 }
+
+.p-advanced{
+    font-size: 13px;
+    vertical-align: middle;
+}
